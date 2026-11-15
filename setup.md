@@ -1,4 +1,4 @@
-# Drupal Engineered by OCTOPODAMI (DEO) Setup
+# Drupal Engineered by OCTOPODAMI (DEBO) Setup
 
 Our pre-configured stack runs on AWS EC2 and gives you a complete Drupal site on one server. You can add other AWS services, such as S3, CloudFront, and Route 53, later.
 
@@ -13,7 +13,7 @@ You need to create a unique EC2 Key Pair so you can log into your EC2 instance e
 
 ## Launch Instance
 
-Within the EC2 Dashboard page, you can do the following to launch a Drupal Engineered by OCTOPODAMI (DEO) instance:
+Within the EC2 Dashboard page, you can do the following to launch a Drupal Engineered by OCTOPODAMI (DEBO) instance:
 
 1. Click the **Launch Instance** button or click this button [![Launch Stack](./images/launch-stack.png?raw=true)](https://aws.amazon.com/marketplace/search/results?searchTerms=octopodami)
 2. Next, click the **AWS Marketplace** tab on the left side of the **Choose an Amazon Machine Image (AMI)** page
@@ -82,7 +82,7 @@ To SSH into your EC2 instance:
 
 ## Support
 
-[Email](mailto:tech@cloudeya.org) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate your Drupal Engineered by OCTOPODAMI (DEO) Stack at any time.
+[Email](mailto:tech@cloudeya.org) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate your Drupal Engineered by OCTOPODAMI (DEBO) Stack at any time.
 
 ## License
 

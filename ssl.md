@@ -1,4 +1,4 @@
-# Drupal Engineered by OCTOPODAMI (DEO) SSL
+# Drupal Engineered by OCTOPODAMI (DEBO) SSL
 
 You can secure your Octopodami installation with an SSL certificate by following the instructions below.
 
@@ -42,7 +42,7 @@ Drupal builds its links from the incoming request, so you do not need to change 
 
 ## Support
 
-[Email](mailto:tech@cloudeya.org) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate your Drupal Engineered by OCTOPODAMI (DEO) Stack at any time.
+[Email](mailto:tech@cloudeya.org) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate your Drupal Engineered by OCTOPODAMI (DEBO) Stack at any time.
 
 ## License
 

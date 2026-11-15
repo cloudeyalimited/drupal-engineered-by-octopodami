@@ -1,6 +1,6 @@
-# Drupal Engineered by OCTOPODAMI (DEO)
+# Drupal Engineered by OCTOPODAMI® (DEBO)
 
-With [Drupal](https://www.drupal.org/) Engineered by OCTOPODAMI (DEO), you can launch a Drupal stack pre-configured for reliability, maintainability, performance, and security.
+With [Drupal](https://www.drupal.org/) Engineered by OCTOPODAMI® (DEBO), you can launch a Drupal stack pre-configured for reliability, maintainability, performance, and security.
 
 Our engineers built this 1-Click Amazon Machine Image (AMI) for rapid deployment; a new server is usually ready in about 10 minutes on Amazon Web Services.
 
@@ -8,7 +8,7 @@ Instead of spending countless hours learning the details of a Drupal build, we'v
 
 ## Features
 
-Drupal Engineered by OCTOPODAMI® (DEO) uses the following technologies:
+Drupal Engineered by OCTOPODAMI® (DEBO) uses the following technologies:
 
 1. **Drupal 11**: Modern, open-source content management system with the standard profile
 2. **Nginx**: Fast, lightweight web server with high performance
@@ -34,7 +34,7 @@ Drupal Engineered by OCTOPODAMI® (DEO) uses the following technologies:
 
 ## Support
 
-[Email](mailto:tech@cloudeya.org) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate your Drupal Engineered by OCTOPODAMI (DEO) Stack at any time.
+[Email](mailto:tech@cloudeya.org) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate your Drupal Engineered by OCTOPODAMI (DEBO) Stack at any time.
 
 ## Troubleshooting
 
