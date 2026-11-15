@@ -15,7 +15,7 @@ You need to create a unique EC2 Key Pair so you can log into your EC2 instance e
 
 Within the EC2 Dashboard page, you can do the following to launch a Drupal Engineered by OCTOPODAMI (DEBO) instance:
 
-1. Click the **Launch Instance** button or click this button [![Launch Stack](./images/launch-stack.png?raw=true)](https://aws.amazon.com/marketplace/search/results?searchTerms=octopodami)
+1. Click the **Launch Instance** button or click this button [![Launch Stack](./images/launch-stack.png?raw=true)](https://aws.amazon.com/marketplace/pp/prodview-h3qaoe2ns4tgy)
 2. Next, click the **AWS Marketplace** tab on the left side of the **Choose an Amazon Machine Image (AMI)** page
 3. Enter the phrase **octopodami** in the search box and press **enter** on your keyboard
 4. Click the **select** button in front of Drupal Engineered by OCTOPODAMI®
@@ -74,7 +74,7 @@ To SSH into your EC2 instance:
 
 ## Links
 
-1. [Marketplace Listing](https://aws.amazon.com/marketplace/search/results?searchTerms=octopodami)
+1. [Marketplace Listing](https://aws.amazon.com/marketplace/pp/prodview-h3qaoe2ns4tgy)
 2. [EULA](./octopodamiEULA.txt)
 3. [Knowledgebase](https://github.com/cloudeyalimited/drupal-engineered-by-octopodami/-/wikis/home)
 4. [Issue Tracking](https://github.com/cloudeyalimited/drupal-engineered-by-octopodami/-/issues)

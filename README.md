@@ -26,11 +26,11 @@ Drupal Engineered by OCTOPODAMI® (DEBO) uses the following technologies:
 
 ## Links
 
-1. [Marketplace Listing](https://aws.amazon.com/marketplace/search/results?searchTerms=octopodami)
-2. [EULA](octopodamiEULA.txt)
+1. [Marketplace Listing](https://aws.amazon.com/marketplace/pp/prodview-h3qaoe2ns4tgy)
+2. [EULA](./octopodamiEULA.txt)
 3. [Knowledgebase](https://github.com/cloudeyalimited/drupal-engineered-by-octopodami/-/wikis/home)
 4. [Issue Tracking](https://github.com/cloudeyalimited/drupal-engineered-by-octopodami/-/issues)
-5. [Changelog](changelog.md)
+5. [Changelog](./changelog.md)
 
 ## Support
 
